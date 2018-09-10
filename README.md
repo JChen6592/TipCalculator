@@ -54,3 +54,4 @@ limitations under the License.
 
 ![](Tip.Caluclator.Demo.gif)
 # TipCalculator
+# JohnTipCalculator
